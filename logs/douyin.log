@@ -1,0 +1,25 @@
+2026-04-23 16:04:21.561 | INFO     | uploader.douyin_uploader.main:douyin_setup:103 - 🥹 cookie 失效了，准备打开浏览器重新登录
+2026-04-23 16:04:31.658 | INFO     | uploader.douyin_uploader.main:_save_douyin_qrcode:140 - 🖼️ 二维码已经准备好啦，已保存到: D:\111\social-auto-upload\cookies\douyin_test_login_qrcode_20260423_160431.png
+2026-04-23 16:04:32.027 | INFO     | uploader.douyin_uploader.main:douyin_cookie_gen:215 - 🧍 请扫码，小人正在耐心等待登录完成
+2026-04-23 16:05:28.362 | INFO     | uploader.douyin_uploader.main:_wait_for_douyin_login:181 - 🥳 扫码成功，已经跳转到登录后页面: https://creator.douyin.com/creator-micro/home
+2026-04-23 16:05:34.565 | INFO     | uploader.douyin_uploader.main:douyin_cookie_gen:240 - 🧹 临时二维码文件已清理: D:\111\social-auto-upload\cookies\douyin_test_login_qrcode_20260423_160431.png
+2026-04-23 16:05:55.149 | INFO     | uploader.douyin_uploader.main:upload:496 - 🧍 小人先检查 cookie、视频文件、封面和发布时间
+2026-04-23 16:05:59.843 | INFO     | uploader.douyin_uploader.main:upload:498 - 🥳 上传前检查通过
+2026-04-23 16:06:01.711 | INFO     | uploader.douyin_uploader.main:upload:516 - 🏃 小人开始搬运视频: 自动化验证视频.mp4
+2026-04-23 16:06:01.711 | INFO     | uploader.douyin_uploader.main:upload:517 - 🧭 小人正在赶往上传主页
+2026-04-23 16:06:07.421 | INFO     | uploader.douyin_uploader.main:upload:535 - 🥳 已经进入 version_2 发布页面
+2026-04-23 16:06:08.420 | INFO     | uploader.douyin_uploader.main:upload:542 - ✍️ 小人开始填标题、描述和话题
+2026-04-23 16:06:09.873 | INFO     | uploader.douyin_uploader.main:upload:544 - 🏷️ 小人一共贴了 0 个话题
+2026-04-23 16:06:10.859 | SUCCESS  | uploader.douyin_uploader.main:upload:550 - 🥳 视频已经传完啦
+2026-04-23 16:06:12.487 | SUCCESS  | uploader.douyin_uploader.main:upload:593 - 🥳 视频发布成功，小人开心收工
+2026-04-23 16:06:13.335 | SUCCESS  | uploader.douyin_uploader.main:upload:603 - 🥳 cookie 更新完毕
+2026-04-29 15:19:18.936 | INFO     | uploader.douyin_uploader.main:upload:496 - 🧍 小人先检查 cookie、视频文件、封面和发布时间
+2026-04-29 15:19:22.543 | INFO     | uploader.douyin_uploader.main:upload:498 - 🥳 上传前检查通过
+2026-04-29 15:19:27.538 | INFO     | uploader.douyin_uploader.main:upload:516 - 🏃 小人开始搬运视频: pudong绿地云湾3室2厅优选房源.mp4
+2026-04-29 15:19:27.539 | INFO     | uploader.douyin_uploader.main:upload:517 - 🧭 小人正在赶往上传主页
+2026-04-29 15:19:30.708 | INFO     | uploader.douyin_uploader.main:upload:535 - 🥳 已经进入 version_2 发布页面
+2026-04-29 15:19:31.704 | INFO     | uploader.douyin_uploader.main:upload:542 - ✍️ 小人开始填标题、描述和话题
+2026-04-29 15:19:35.947 | INFO     | uploader.douyin_uploader.main:upload:544 - 🏷️ 小人一共贴了 4 个话题
+2026-04-29 15:19:36.515 | SUCCESS  | uploader.douyin_uploader.main:upload:550 - 🥳 视频已经传完啦
+2026-04-29 15:19:37.817 | SUCCESS  | uploader.douyin_uploader.main:upload:593 - 🥳 视频发布成功，小人开心收工
+2026-04-29 15:19:38.611 | SUCCESS  | uploader.douyin_uploader.main:upload:603 - 🥳 cookie 更新完毕

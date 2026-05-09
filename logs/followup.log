@@ -1,0 +1,19 @@
+2026-04-23 16:08:34.810 | INFO     | uploader.followup.douyin_adapter:_goto_comment_page:97 - Opened Douyin comment page: https://creator.douyin.com/creator-micro/home
+2026-04-23 16:16:49.840 | INFO     | uploader.followup.douyin_adapter:_goto_comment_page:97 - Opened Douyin comment page: https://creator.douyin.com/creator-micro/interactive/comment
+2026-04-23 16:16:49.907 | ERROR    | uploader.followup.runner:run_douyin_followup_once:137 - Reply failed comment_id=dom-942510986: Reply action not found for comment: dom-942510986
+2026-04-23 16:16:49.918 | ERROR    | uploader.followup.runner:run_douyin_followup_once:137 - Reply failed comment_id=dom-942510985: Reply action not found for comment: dom-942510985
+2026-04-23 16:16:49.929 | ERROR    | uploader.followup.runner:run_douyin_followup_once:137 - Reply failed comment_id=dom-846930681: Reply action not found for comment: dom-846930681
+2026-04-23 16:16:49.941 | ERROR    | uploader.followup.runner:run_douyin_followup_once:137 - Reply failed comment_id=dom-846930743: Reply action not found for comment: dom-846930743
+2026-04-23 16:16:49.954 | ERROR    | uploader.followup.runner:run_douyin_followup_once:137 - Reply failed comment_id=dom-846930744: Reply action not found for comment: dom-846930744
+2026-04-23 16:16:49.964 | ERROR    | uploader.followup.runner:run_douyin_followup_once:137 - Reply failed comment_id=dom-846930745: Reply action not found for comment: dom-846930745
+2026-04-23 16:16:49.976 | ERROR    | uploader.followup.runner:run_douyin_followup_once:137 - Reply failed comment_id=dom-846930746: Reply action not found for comment: dom-846930746
+2026-04-23 16:16:49.988 | ERROR    | uploader.followup.runner:run_douyin_followup_once:137 - Reply failed comment_id=dom-499733038: Reply action not found for comment: dom-499733038
+2026-04-23 16:16:49.999 | ERROR    | uploader.followup.runner:run_douyin_followup_once:137 - Reply failed comment_id=dom-1078371028: Reply action not found for comment: dom-1078371028
+2026-04-23 16:16:50.011 | ERROR    | uploader.followup.runner:run_douyin_followup_once:137 - Reply failed comment_id=dom-141617515: Reply action not found for comment: dom-141617515
+2026-04-23 16:22:17.472 | INFO     | uploader.followup.douyin_adapter:_goto_comment_page:98 - Opened Douyin comment page: https://creator.douyin.com/creator-micro/interactive/comment
+2026-04-23 16:22:42.560 | INFO     | uploader.followup.douyin_adapter:_goto_comment_page:98 - Opened Douyin comment page: https://creator.douyin.com/creator-micro/interactive/comment
+2026-04-23 16:22:48.584 | ERROR    | uploader.followup.runner:run_douyin_followup_once:137 - Reply failed comment_id=dom-1546271720: Reply action not found for comment: dom-1546271720
+2026-04-23 16:23:09.793 | INFO     | uploader.followup.douyin_adapter:_goto_comment_page:98 - Opened Douyin comment page: https://creator.douyin.com/creator-micro/interactive/comment
+2026-04-23 16:23:31.048 | INFO     | uploader.followup.douyin_adapter:_goto_comment_page:98 - Opened Douyin comment page: https://creator.douyin.com/creator-micro/interactive/comment
+2026-04-23 16:24:05.294 | INFO     | uploader.followup.douyin_adapter:_goto_comment_page:98 - Opened Douyin comment page: https://creator.douyin.com/creator-micro/interactive/comment
+2026-04-23 16:24:39.940 | INFO     | uploader.followup.douyin_adapter:_goto_comment_page:98 - Opened Douyin comment page: https://creator.douyin.com/creator-micro/interactive/comment
